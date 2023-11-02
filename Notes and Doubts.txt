@@ -1,0 +1,8 @@
+@3:35=> Why do we not require to import React?
+
+@12:12=> she downloads cors and express packages....learn about cors
+
+Some insights: 
+first we did, make all components and basically the structure of the page
+then we did the designing
+folowed by all the functionality and backend part, the api call and integrating the functionality into the page etc.
